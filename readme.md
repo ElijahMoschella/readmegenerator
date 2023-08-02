@@ -1,0 +1,1 @@
+this is a generator for a proffesional readme. using the init command u will be prompted to answer questions on how u would like your read me to be. once the questionair is completed a file will be generated conatining your formated readme.
